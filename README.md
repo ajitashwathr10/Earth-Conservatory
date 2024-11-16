@@ -12,30 +12,30 @@
 ## 🌟 **About the Project**
 The **Earth Conservatory** project focuses on raising awareness about biodiversity conservation and supporting efforts to protect ecosystems. It provides educational resources, research updates, and tools to help individuals and organizations contribute positively to environmental preservation.
 
-### 🌱 **Key Features**  
+## 🌱 **Key Features**  
 - 🌍 **Community Engagement**: Foster eco-conscious behaviors through collaborative efforts.  
 - 🔬 **Innovative Solutions**: Explore and implement cutting-edge sustainable technologies.  
 - 🌳 **Education & Awareness**: Provide resources to educate about eco-friendly practices.  
 
-## Tools and Technologies 
+## 🔬 **Tools and Technologies** 
 The following tools and technologies are used in this project:
 
-## Programming Languages
+### Programming Languages
 - **JavaScript**
 - **Node.js**
 
-## Markup Languages
+### Markup Languages
 - **HTML5**
 - **CSS3**
   
-## Development Tools
+### Development Tools
 - **Git**: For version control and collaboration.
 - **GitHub**: For project hosting and issue tracking.
 
-## Dependencies
+### Dependencies
 - **npm**: Node Package Manager to manage project dependencies.
 
-## Contribution Guidelines
+### Contribution Guidelines
 - Developers are encouraged to follow the setup instructions in the README for installing dependencies and running the project locally.
 ---
 
